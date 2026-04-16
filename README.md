@@ -86,3 +86,4 @@ Supports fuzzy matching and priority boosting.
 - **Elasticsearch**: Indices are kept in sync for high-performance searching.
 - **Search Logic**: Uses `edge_ngram` tokenizer for real-time suggestions and `multi_match` with `fuzziness: AUTO` for robust search.
 # ecommerce_search_api
+# ecommerce_search_api
